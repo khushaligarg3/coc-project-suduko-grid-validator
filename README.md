@@ -1,4 +1,4 @@
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/c202b23e-9542-4570-ba60-0d7966bee870" /># coc-project-suduko-grid-validator
+# coc-project-suduko-grid-validator
 PROJECT TITLE & DESCRIPTION:
 The Sudoku Grid Validator is a C program designed to check whether a given 9×9 Sudoku puzzle is valid according to the standard Sudoku rules.
 It ensures that each row, column, and 3×3 sub-grid contains all digits from 1 to 9 without repetition.
